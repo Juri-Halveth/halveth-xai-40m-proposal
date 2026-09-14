@@ -40,4 +40,4 @@ Juri Janovski
 
 HALVETH
 
-Research profile and evidence index: https://github.com/Juri-Halveth
+Public proposal, term sheet, source audit, and integrity record: https://github.com/Juri-Halveth/halveth-xai-40m-proposal
