@@ -1,0 +1,11 @@
+HALVETH WALLET CONTROL STATEMENT v1
+
+I, Juri Janovski / HALVETH, state that I control Ethereum Mainnet address:
+0x6416FDCfe74978Be4787A4e65E53090A7C9Eb5ca
+
+Purpose: Proof of wallet control for a separately negotiated HALVETH collaboration proposal.
+Proposal ceiling: USD 40,000,000.00, milestone-based and non-binding until a written agreement is signed.
+Created: 2026-09-14T20:29:11+02:00
+Proposal digest (proposal/TERM_SHEET.md): sha256:153e739fc21149fdccf70b474b43403e927bfc75793405eca584d17838988bad
+
+Signing this text authorizes no transaction, transfer, token approval, contract call, rights assignment, or production license.

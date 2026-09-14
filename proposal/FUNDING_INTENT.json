@@ -1,0 +1,55 @@
+{
+  "schema": "halveth-funding-intent/1.0.0",
+  "createdAt": "2026-09-14T20:29:11+02:00",
+  "status": "PUBLIC_NON_BINDING_PROPOSAL_CONTACT_PENDING",
+  "proponent": {
+    "name": "Juri Janovski",
+    "project": "HALVETH"
+  },
+  "prospectiveCounterparty": "xAI or another expressly authorized Musk-affiliated entity",
+  "programCeiling": {
+    "amount": "40000000.00",
+    "currency": "USD"
+  },
+  "consideration": "Milestone-based research collaboration and bounded evaluation license",
+  "isInvoice": false,
+  "isEntitlementClaim": false,
+  "isSaleOfAllRights": false,
+  "initialAccess": {
+    "type": "BOUNDED_EVALUATION_CAPSULE",
+    "exclusive": false,
+    "transferable": false,
+    "sublicensable": false,
+    "productionUse": false,
+    "commercialUse": false,
+    "modelTraining": false
+  },
+  "retainedRights": [
+    "complete HALVETH research corpus",
+    "unprovided source material",
+    "unpublished research",
+    "unprovided know-how",
+    "future work",
+    "names and marks",
+    "all rights not expressly granted in a signed agreement"
+  ],
+  "existingPublicLicenses": "UNCHANGED",
+  "settlement": {
+    "network": "Ethereum Mainnet",
+    "chainId": 1,
+    "address": "0x6416FDCfe74978Be4787A4e65E53090A7C9Eb5ca",
+    "asset": "TO_BE_AGREED",
+    "amountAtomic": "TO_BE_AGREED",
+    "walletControlVerification": "REQUIRED_BEFORE_PAYMENT"
+  },
+  "authority": {
+    "externalSend": "NOT_YET_EXECUTED",
+    "onChainTransaction": "NOT_AUTHORIZED_OR_EXECUTED",
+    "rightsTransfer": "NONE"
+  },
+  "evidence": {
+    "sourceAudit": "../source-audit/ELON_MUSK_40M_SOURCE_AUDIT_2026-09-14.md",
+    "proposalDigest": "sha256:153e739fc21149fdccf70b474b43403e927bfc75793405eca584d17838988bad",
+    "digestObject": "proposal/TERM_SHEET.md"
+  }
+}

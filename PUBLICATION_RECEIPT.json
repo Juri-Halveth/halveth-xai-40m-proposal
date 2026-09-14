@@ -1,0 +1,25 @@
+{
+  "schema": "halveth-publication-receipt/1.0.0",
+  "publisher": "Juri Janovski / Juri Halveth",
+  "publicationTarget": "github.com/Juri-Halveth/halveth-xai-40m-proposal",
+  "authorizedBy": "User instruction of 2026-09-14: make all public, mark it, and contact them",
+  "included": [
+    "bounded USD 40M collaboration proposal",
+    "public settlement address",
+    "non-binding term sheet",
+    "source audit",
+    "choice protocol",
+    "integrity hashes"
+  ],
+  "excluded": [
+    "private keys",
+    "seed phrases",
+    "credentials",
+    "email account details",
+    "private chats",
+    "private repositories",
+    "transaction signatures"
+  ],
+  "externalContact": "SEPARATE_STATUS",
+  "blockchainTransaction": "NONE"
+}
