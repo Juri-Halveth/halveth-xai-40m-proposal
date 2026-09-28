@@ -1,5 +1,14 @@
 # HALVETH x xAI - USD 40M Bounded Collaboration Proposal
 
+<!-- HALVETH_WORK_CERTIFICATES_V1_1 -->
+## Juri Janovski / Juri Halveth – Privates HALVETH-Werkzertifikat
+
+[Privates HALVETH-Werkzertifikat: Dokumentierter Forschungs- und Kooperationsvorschlag – HALVETH](https://juri-halveth.github.io/werkzertifikate/#werk-halveth-xai-40m-proposal).
+
+HALVETH VERACHEL STUDIOS · Quellstand, dokumentierte Ergebnisse und SHA-256-Belege stehen im Werkzertifikat. Private, mit Codex erstellte Werkdokumentation; keine ISTQB- oder sonstige Personenzertifizierung.
+<!-- /HALVETH_WORK_CERTIFICATES_V1_1 -->
+
+
 **Public proposal by Juri Janovski, publishing as Juri Halveth.**
 
 HALVETH invites xAI or another expressly authorized Musk-affiliated entity to discuss a staged research collaboration with a total program ceiling of **USD 40,000,000**.
